@@ -24,6 +24,10 @@ try {
 
 //Code here
 
+function hey (name) {
+  return `Hey ${name}`
+}
+
 
 ///////////////////Problem 2//////////////////
 //Create a function called hi, using a function
@@ -32,6 +36,10 @@ try {
 
 //Code here
 
+function hi (name){
+  return `Hi ` + name
+}
+
 
 ///////////////////Problem 3//////////////////
 //Create a function called hello, using an arrow
@@ -39,6 +47,8 @@ try {
 //the string "Hello " plus the name.
 
 //Code here
+
+let hello = (name) => `Hello ${name}`
 
 
 ///////////////////Problem 4//////////////////
@@ -49,6 +59,11 @@ try {
 //variable called funTimes.
 
 //Code here
+
+let fun = (string) => {
+  return `${string}!!!!!`
+}
+fun()
 
 
 ///////////////////Problem 5//////////////////
