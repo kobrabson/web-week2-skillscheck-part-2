@@ -8,6 +8,8 @@
 
 //Code here
 
+let rubberDucks = [`yellow`, `red`, `blue`, `brown`]
+
 
 //////////////////PROBLEM 2////////////////////
 
@@ -16,13 +18,13 @@
 //What is the first numbered index of an array?
 
 // var answer = 1
-// var answer = 0
+var answer = 0
 
 //How do you access the length of an array, such as the array
 //you created above called rubberDucks?
 
 // var arrayLength = Array.length(rubberDucks)
-// var arrayLength = rubberDucks.length
+var arrayLength = rubberDucks.length
 // var arrayLength = rubberDucks.len
 // var arrayLength = rubberDucks.length()
 
