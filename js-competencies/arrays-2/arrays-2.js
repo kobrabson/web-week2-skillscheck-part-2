@@ -26,7 +26,7 @@ function addMoreDucks(arr){
 
 //Code here
 
-function
+
 
 
 //////////////////PROBLEM 3////////////////////
