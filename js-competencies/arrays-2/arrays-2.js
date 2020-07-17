@@ -11,6 +11,12 @@
 
 //Code here
 
+function addMoreDucks(arr){
+    if (arr.length > 4){
+        return arr.splice(3,1, `42 ducks`)
+    }
+}
+
 
 //////////////////PROBLEM 2////////////////////
 
@@ -19,6 +25,8 @@
 //the 3rd element of the array. cutItOut should return the array.
 
 //Code here
+
+function
 
 
 //////////////////PROBLEM 3////////////////////
