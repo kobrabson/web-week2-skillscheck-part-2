@@ -38,6 +38,10 @@ var arrayLength = rubberDucks.length
 
 //Code here
 
+const getLast = (arr) => {
+    return rubberDucks.length -1 
+}
+
 
 //////////////////PROBLEM 4////////////////////
 
