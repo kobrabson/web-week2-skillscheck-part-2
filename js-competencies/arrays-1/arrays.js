@@ -46,12 +46,15 @@ const getLast = (arr) => {
 //////////////////PROBLEM 4////////////////////
 
 //Create a function called getElement that takes in two 
-//parameters: an array, an index, and returns the element 
+//parameters: an array, an index, and returns the element s
 //at the numbered index of that array.
 //The passed-in array should NOT be modified.
 
 //Code here
 
+// const getElement = arr.indexOf((arr, i) => {
+//     return arr[i]
+// })
 
 //////////////////PROBLEM 5////////////////////
 
@@ -62,6 +65,9 @@ const getLast = (arr) => {
 
 //Code here
 
+// let changeElement = (el, i, arr) => {
+
+// }
 
 //////////////////PROBLEM 6////////////////////
 
@@ -69,3 +75,7 @@ const getLast = (arr) => {
 //the last element. trim should return the array.
 
 //Code here
+
+let trim = () =>{
+    return trim.pop()
+}
